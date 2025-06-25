@@ -1,8 +1,8 @@
 ## Hello, there 👋
 
-My name is Jhessika and I'm a full-stack web developer, with a strong focus on Back-End development. I love technology, solving real-world problems, and creating efficient, scalable solutions.
+My name is Jhessika and I'm a full-stack web developer, with a strong focus on Back-End development. 
 
-I'm passionate about building scalable systems, smart automations, and APIs that actually solve real-world problems. I'm deeply interested in AI and love creating tools that make things more efficient and intelligent.
+I love technology, solving real-world problems, and creating efficient, scalable solutions, smart automations, and APIs that actually solve real-world problems. I'm deeply interested in AI and love creating tools that make things more efficient and intelligent.
 
 ---
 
