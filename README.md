@@ -36,4 +36,4 @@ I love technology, solving real-world problems, and creating efficient, scalable
 
 - Email: jhessika.smp@gmail.com 
 - LinkedIn: [linkedin.com/in/jhessika-smp](https://linkedin.com/in/jhessika-smp)
-- Potifolio: https://jhessikasmp.github.io/
+- Portfolio: https://jhessikasmp.github.io/
